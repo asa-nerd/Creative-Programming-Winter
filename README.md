@@ -1,2 +1,2 @@
-# Creative Programming P5
-Repository for the course ›creative programming‹ at the University of Art and Design Linz
+# Creative Programming Winter Semester 
+Code and Examples for my lecture ›Creative Programming‹ at the University of Art and Design Linz.
